@@ -11399,9 +11399,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  /* background-image: url("../assets/Montebello/DSCN9736.jpg"); */
   background-image: url("../assets/GM/DSCN0080.jpg");
-  /* background-image: url("../assets/Montebello/DSCN9603.jpg"); */
 
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11417,9 +11415,9 @@ header.masthead .masthead-subheading {
   color: white;
 }
 header.masthead .masthead-heading {
-  font-size: 3.25rem;
+  font-size: 2.5rem;
   font-weight: 700;
-  line-height: 3.25rem;
+  line-height: 2.5rem;
   margin-bottom: 2rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   color: white;
